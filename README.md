@@ -28,33 +28,6 @@ A simple grocery checklist application built with **React.js, JavaScript, HTML, 
 - **Conditional Rendering:** Displaying purchased status
 - **Array Methods:** Using `map()` and `filter()` to manage grocery items
 
-## Getting Started
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YOUR-USERNAME/react-grocery-checker.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd react-grocery-checker
-   ```
-
-3. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-4. Start the development server:
-
-   ```bash
-   npm run dev
-   ```
-
-5. Open the local URL displayed in your terminal.
 
 ## Project Purpose
 
